@@ -1,0 +1,32 @@
+<h2>Reindeer test</h2>
+<main>
+  <p>This is a test website using basic html tags.</p>
+  
+  <a href="#page-bottom">Go to the bottom of this page</a>
+  
+  <p></p>
+
+  <a href="#">Placeholder link</a>
+  
+  <p>
+    This is the wikipedia article for <a href="https://en.wikipedia.org/wiki/Reindeer"> reindeer</a>; read it in order to learn more about them.
+  </p>
+  
+    <a href="https://commons.wikimedia.org/wiki/File:Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg/320px-Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg"
+      alt="A photo showing a reindeer from a side perspective.">
+    </a>
+ 
+  <ol>
+    <li>This is an</li>
+    <li>ordered list</li>
+  </ol>
+  
+  <ul>
+    <li>But this list</li>
+    <li>is unordered</li>
+  </ul>
+  
+</main>
+
+<footer id="page_bottom">Made by Hazael de la Torre</footer>
